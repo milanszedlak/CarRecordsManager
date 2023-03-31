@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+		<accessrules>
+			<accessrule kind="accessible" pattern="java/lang/reflect/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/assertj-core-3.19.0.jar"/>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/assertj-swing-3.9.2.jar"/>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/flatlaf-3.0.jar"/>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="//Mac/Home/Desktop/CarRecordManagerJars/junit-4.13.1.jar"/>
+	<classpathentry kind="output" path="out/production/RecordManagementSystem"/>
+</classpath>
