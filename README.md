@@ -1,4 +1,4 @@
-# CarRecordsManager
+# Car Records Manager
 Car Records Manager for University Assignment
 
 This is my assignment for university where I had to make a records appication where it reads/writes to an text file,
