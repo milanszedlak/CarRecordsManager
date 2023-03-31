@@ -14,7 +14,7 @@ For eclipse:
 4. click okay and apply and close
 
 
-#Testing run configurations
+# Testing run configurations
 1. go to the project and right click on "tests" package -> "run as" -> "run configurations"
 2. go to JUnit -> "CarManagementSystem" -> "arguements" in the "vm arguements" paste:
 3. --add-opens java.base/java.util=ALL-UNNAMED
