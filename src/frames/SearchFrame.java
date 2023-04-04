@@ -305,7 +305,7 @@ public class SearchFrame {
         // Adds the table to the frame
         JScrollPane scrollPane = new JScrollPane(table);
 
-        scrollPane.setBounds(0,300,600,250);
+        scrollPane.setBounds(7,300,575,250);
         scrollPane.setVisible(true);
         table.getTableHeader().setResizingAllowed(false);
         table.getTableHeader().setReorderingAllowed(false);
